@@ -1,4 +1,4 @@
-//모의고사(완전탐색)
+// 모의고사(완전탐색)
 import java.util.*;
 class Solution8 {
     public Integer[] solution(int[] answers) {
