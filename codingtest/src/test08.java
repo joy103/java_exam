@@ -1,4 +1,4 @@
-//Ã¼À°º¹(Å½¿å¹ıGreedy)
+//ì²´ìœ¡ë³µ(íƒìš•ë²•Greedy)
 import java.util.*;
 class Solution8 {
     public int solution(int n, int[] lost, int[] reserve) {
