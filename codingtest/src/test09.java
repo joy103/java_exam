@@ -1,4 +1,4 @@
-//¸ğÀÇ°í»ç(¿ÏÀüÅ½»ö)
+//ëª¨ì˜ê³ ì‚¬(ì™„ì „íƒìƒ‰)
 import java.util.*;
 class Solution9 {
     public Integer[] solution(int[] answers) {
