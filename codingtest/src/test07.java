@@ -1,4 +1,4 @@
-//¿ÏÁÖÇÏÁö ¸øÇÑ ¼±¼ö(ÇØ½Ã)
+//ì™„ì£¼í•˜ì§€ ëª»í•œ ì„ ìˆ˜(í•´ì‹œ)
 import java.util.*;
 class Solution7 {
     public String solution(String[] participant, String[] completion) {
