@@ -1,4 +1,4 @@
-//찾아라 프로그래밍 마에스터(포켓몬)
+//찾아라 프로그래밍 마에스터(포켓몬) 
 import java.util.*;
 class Solution17 {
     public int solution(int[] nums) {
